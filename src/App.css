@@ -1,0 +1,18 @@
+h2 {
+    font-size: large;
+    margin-top: 50px; 
+}
+
+input{
+    width: 100%;
+}
+
+.kg-btn{
+    min-width: 80px;
+}
+.container{
+    margin-top: 50px;
+}
+.row{
+    margin: 30px;
+}
